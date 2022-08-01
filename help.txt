@@ -1,0 +1,12 @@
+
+                       [•] █░█ █▀▀ █░░ █▀█ 
+                       [•] █▀█ ██▄ █▄▄ █▀▀ 
+
+ Use -- • python C_IP.py --ip [YourIP] / python C_IP.py -i [YourIP •
+ For Help -- • python C_IP.py -h •
+
+ [?] API - ip-api.com
+
+[__________________________________________________________________]
+
+
